@@ -1,2 +1,2 @@
-# indras_pearls
+# Indra's Pearls
 Arty Farty Mathematical Maps
